@@ -5,7 +5,7 @@
     "subtitle": "Using R and Python",
     "subject": "Mathematics",
     "description": "Functions, modeling and mathematical foundations.",
-    "status": "development",
+    "status": "published",
     "origin": "https://applied-precalculus.pages.dev",
     "cover": "",
     "accent": "#245c48",
@@ -16,13 +16,13 @@
     ]
   },
   {
-    "slug": "applied-single-variable-calculus",
+    "slug": "applied-calculus",
     "title": "Applied Single-Variable Calculus",
     "subtitle": "Using R and Python",
     "subject": "Mathematics",
     "description": "Limits, derivatives, integration and applications.",
-    "status": "development",
-    "origin": "https://applied-single-variable-calculus.pages.dev",
+    "status": "published",
+    "origin": "https://applied-calculus-zxt.pages.dev",
     "cover": "",
     "accent": "#23476e",
     "keywords": [
@@ -32,13 +32,13 @@
     ]
   },
   {
-    "slug": "applied-multivariable-calculus",
-    "title": "Applied Multivariable Calculus",
+    "slug": "applied-multivariate-calculus",
+    "title": "Applied Multivariate Calculus",
     "subtitle": "Using R and Python",
     "subject": "Mathematics",
     "description": "Vectors, surfaces and vector calculus.",
-    "status": "development",
-    "origin": "https://applied-multivariable-calculus.pages.dev",
+    "status": "published",
+    "origin": "https://applied-multivariate-calculus.pages.dev",
     "cover": "",
     "accent": "#514575",
     "keywords": [
@@ -53,7 +53,7 @@
     "subtitle": "Using R and Python",
     "subject": "Mathematics",
     "description": "Dynamic systems and biomedical modeling.",
-    "status": "development",
+    "status": "published",
     "origin": "https://applied-differential-equations.pages.dev",
     "cover": "",
     "accent": "#8c4933",
@@ -70,7 +70,7 @@
     "subject": "Mathematics",
     "description": "Matrices, vector spaces and health-science applications.",
     "status": "development",
-    "origin": "https://applied-linear-algebra.pages.dev",
+    "origin": "",
     "cover": "",
     "accent": "#28616d",
     "keywords": [
