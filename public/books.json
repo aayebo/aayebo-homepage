@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "applied-precalculus",
+    "title": "Applied Precalculus",
+    "subtitle": "Using R and Python",
+    "subject": "Mathematics",
+    "description": "Functions, modeling and mathematical foundations.",
+    "status": "development",
+    "origin": "https://applied-precalculus.pages.dev",
+    "cover": "",
+    "accent": "#245c48",
+    "keywords": [
+      "R",
+      "Python",
+      "health sciences"
+    ]
+  },
+  {
+    "slug": "applied-single-variable-calculus",
+    "title": "Applied Single-Variable Calculus",
+    "subtitle": "Using R and Python",
+    "subject": "Mathematics",
+    "description": "Limits, derivatives, integration and applications.",
+    "status": "development",
+    "origin": "https://applied-single-variable-calculus.pages.dev",
+    "cover": "",
+    "accent": "#23476e",
+    "keywords": [
+      "R",
+      "Python",
+      "health sciences"
+    ]
+  },
+  {
+    "slug": "applied-multivariable-calculus",
+    "title": "Applied Multivariable Calculus",
+    "subtitle": "Using R and Python",
+    "subject": "Mathematics",
+    "description": "Vectors, surfaces and vector calculus.",
+    "status": "development",
+    "origin": "https://applied-multivariable-calculus.pages.dev",
+    "cover": "",
+    "accent": "#514575",
+    "keywords": [
+      "R",
+      "Python",
+      "health sciences"
+    ]
+  },
+  {
+    "slug": "applied-differential-equations",
+    "title": "Applied Differential Equations",
+    "subtitle": "Using R and Python",
+    "subject": "Mathematics",
+    "description": "Dynamic systems and biomedical modeling.",
+    "status": "development",
+    "origin": "https://applied-differential-equations.pages.dev",
+    "cover": "",
+    "accent": "#8c4933",
+    "keywords": [
+      "R",
+      "Python",
+      "health sciences"
+    ]
+  },
+  {
+    "slug": "applied-linear-algebra",
+    "title": "Applied Linear Algebra",
+    "subtitle": "Using R and Python",
+    "subject": "Mathematics",
+    "description": "Matrices, vector spaces and health-science applications.",
+    "status": "development",
+    "origin": "https://applied-linear-algebra.pages.dev",
+    "cover": "",
+    "accent": "#28616d",
+    "keywords": [
+      "R",
+      "Python",
+      "health sciences"
+    ]
+  }
+]
